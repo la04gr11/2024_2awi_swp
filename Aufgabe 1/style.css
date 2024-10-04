@@ -5,7 +5,7 @@ div{
 
 .div1{
     background-color: blue;
-    position: relative;
-    top: 50px;
-    left: 50px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
 }
