@@ -1,0 +1,11 @@
+div{
+    border-style: solid;
+    height:100px;
+}
+
+.div1{
+    background-color: blue;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
